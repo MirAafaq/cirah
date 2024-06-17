@@ -8,6 +8,10 @@ show_banner() {
  figlet C I R A H
 
 }
+# Function to colorize text
+colorize() {
+    echo -e "\e[1;36m$1\e[0m"  # Cyan color
+}
 # Display developer details
 echo
 echo "$(colorize 'Developed by: Aafaq Ahmad Mir')"
