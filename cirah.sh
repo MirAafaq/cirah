@@ -8,6 +8,11 @@ show_banner() {
  figlet C I R A H
 
 }
+# Display developer details
+echo
+echo "$(colorize 'Developed by: Aafaq Ahmad Mir')"
+echo "$(colorize 'GitHub: github.com/miraafaq')"
+echo "$(colorize 'Website: https://miraafaq.in')"
 
 # Function to colorize text
 colorize() {
