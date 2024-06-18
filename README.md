@@ -20,3 +20,22 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/miraafaq/cirah.git
 cd cirah
+```
+### Step 2: Add executable permission
+```bash
+chmod +x install_cirah.sh
+```
+### Step 3: Run installer 
+```bash
+bash install_cirah.sh
+```
+After Allowing Acess to Add its path, You are ready to go
+### Step 4: Run Command 
+```bash
+# to organise in particular directory run command 
+cirah directory_name
+# to run in current directory
+cirah .
+```
+# Developer
+Aafaq Ahmad Mir
