@@ -1,6 +1,6 @@
 #!/bin/bash
 
-log_file="file_organizer.log"
+log_file="audit.log"
 
 # Function to display ASCII art banner
 show_banner() {
