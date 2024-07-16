@@ -1,8 +1,8 @@
 # CIRAH - File Organizer
 
-CIRAH is a simple and efficient file organizer script that helps you move files with specified extensions into a target directory. It includes detailed logging (auditing) to keep track of all operations.
+CIRAH is a simple and efficient file organizer script that helps you move files with specified extensions into a target directory. It includes detailed logging (auditing) to keep track of all operations. More Coming soon 
 
-## Features
+## Features 
 
 - Organize files based on their extensions.
 - Specify the target directory for organized files.
